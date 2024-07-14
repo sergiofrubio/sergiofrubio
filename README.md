@@ -30,7 +30,7 @@ Soy un estudiante de Matemáticas y desarrollador apasionado por la tecnología 
 
 ## Conéctate Conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/tu-usuario">
+  <a href="https://www.linkedin.com/in/fisicarubio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
