@@ -1,19 +1,18 @@
 # ¡Hola, soy Sergio!
 
 ## Acerca de mí
-Soy un estudiante de Matemáticas y desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos interesantes. Estoy comprometido con la mejora continua y siempre busco desafíos que me permitan crecer profesional y personalmente.
+Soy un estudiante de Ingeniería Informática y desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos interesantes. Estoy comprometido con la mejora continua y siempre busco desafíos que me permitan crecer profesional y personalmente.
 
 ## Áreas de Interés
 - Desarrollo Web
 - Desarrollo Backend
-- Ciencia de Datos
 - Aplicaciones Móviles
 
 ## Proyectos Destacados
-1. **Velion**
-   - Descripción: Software para la gestión de clínicas de salud, incluyendo lista de pacientes, facturación, citas.
-   - Tecnologías: PHP, Symfony, Android Studio, MySQL.
-   - Enlace: [Enlace al proyecto](https://github.com/sergiofrubio/velion-symfony/)
+**Velion**
+- Descripción: Software para la gestión de clínicas de salud, incluyendo lista de pacientes, facturación, citas.
+- Tecnologías: PHP, Symfony, Android Studio, MySQL.
+- Enlace: [Enlace al proyecto](https://github.com/sergiofrubio/velion-symfony/)
 
 ## Tecnologías que utilizo
 <p align="left">
