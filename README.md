@@ -1,7 +1,7 @@
 # ¡Hi, I'm Sergio!
 
 ## About me
-"I am a Computer Science student and a developer passionate about technology and programming. I love learning new skills and applying my knowledge to interesting projects. I am committed to continuous improvement and always seek challenges that allow me to grow professionally and personally.
+I am a Computer Science student and a developer passionate about technology and programming. I love learning new skills and applying my knowledge to interesting projects. I am committed to continuous improvement and always seek challenges that allow me to grow professionally and personally.
 
 ## Interests
 - Web Development
@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50"/>
 </p>
 
-## Conctact with me
+## Contact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/fisicarubio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
