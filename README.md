@@ -1,20 +1,14 @@
-# ¡Hola, soy Sergio!
+# ¡Hi, I'm Sergio!
 
-## Acerca de mí
-Soy un estudiante de Ingeniería Informática y desarrollador apasionado por la tecnología y la programación. Me encanta aprender nuevas habilidades y aplicar mis conocimientos en proyectos interesantes. Estoy comprometido con la mejora continua y siempre busco desafíos que me permitan crecer profesional y personalmente.
+## About me
+"I am a Computer Science student and a developer passionate about technology and programming. I love learning new skills and applying my knowledge to interesting projects. I am committed to continuous improvement and always seek challenges that allow me to grow professionally and personally.
 
-## Áreas de Interés
-- Desarrollo Web
-- Desarrollo Backend
-- Aplicaciones Móviles
+## Interests
+- Web Development
+- Backend Development
+- Mobile Developement
 
-## Proyectos Destacados
-**Velion**
-- Descripción: Software para la gestión de clínicas de salud, incluyendo lista de pacientes, facturación, citas.
-- Tecnologías: PHP, Symfony, Android Studio, MySQL.
-- Enlace: [Enlace al proyecto](https://github.com/sergiofrubio/velion-symfony/)
-
-## Tecnologías que utilizo
+## Tech stack
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/256/732/732212.png" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/256/732/732190.png" alt="CSS3" width="50" height="50"/>
@@ -30,11 +24,11 @@ Soy un estudiante de Ingeniería Informática y desarrollador apasionado por la 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50"/>
 </p>
 
-## Conéctate Conmigo
+## Conctact with me
 <p align="left">
   <a href="https://www.linkedin.com/in/fisicarubio">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-¡Gracias por visitar mi perfil de GitHub!
+¡Thank you for visiting my GitHub profile!
