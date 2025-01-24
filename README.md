@@ -1,7 +1,7 @@
 # ¡Hi, I'm Sergio!
 
 ## About me
-I am a Computer Science student and a developer passionate about technology and programming. I love learning new skills and applying my knowledge to interesting projects. I am committed to continuous improvement and always seek challenges that allow me to grow professionally and personally.
+I am a Computer Science student and a developer passionate about technology and programming. I have a strong and deep knowledge in Programming and Relational Databases Fundamentals as well as Arithmetic in Java. In addition, I am able to highlight my skills in Web Development using Java, PHP and Kotlin for Android Apps.
 
 ## Interests
 - Web Development
