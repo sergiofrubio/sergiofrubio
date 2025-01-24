@@ -18,8 +18,8 @@ I am a Computer Science student and a developer passionate about technology and 
   <img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="PHP" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony" width="50" height="50"/>
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="50" height="50"/>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vhv.rs%2Fdpng%2Fd%2F543-5438423_mysql-logo-hd-png-download.png&f=1&nofb=1&ipt=33151a5129ff80d6aa6cb22c4dc399125935436c4009eaa4ce728acbfc43d377&ipo=images" alt="MySQL" width="50" height="50"/>
-  <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon.png" alt="Docker" width="50" height="50"/>
+  <img src="https://www.vhv.rs/dpng/d/543-5438423_mysql-logo-hd-png-download.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50"/>
 </p>
 
