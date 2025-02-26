@@ -1,7 +1,7 @@
 # ¡Hi, I'm Sergio!
 
 ## About me
-I am a Computer Science student and a developer passionate about technology and programming. I have a strong and deep knowledge in Programming and Relational Databases Fundamentals as well as Arithmetic in Java. In addition, I am able to highlight my skills in Web Development using Java, PHP and Kotlin for Android Apps.
+I am a Backend developer and Computer Engineering student passionate about technology and programming. I have a  solid experience in Web (Java and PHP) and Android development. I am always committed to writing clean code, following style guides, design patterns in OOP and the principles of best programming practices.
 
 ## Interests
 - Web Development
