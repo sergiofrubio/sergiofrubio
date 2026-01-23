@@ -38,6 +38,6 @@ I am a web and mobile developer, passionate about what I do. I am highly focused
 ![WAMPSERVER](https://img.shields.io/badge/WAMPSERVER-%23FF007F.svg?&style=for-the-badge&logo=wamp&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Adri833&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adri833&layout=compact&langs_count=8&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sergiofrubio&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergiofrubio&layout=compact&langs_count=8&theme=radical)
 ![snake gif](https://github.com/Adri833/Adri833/blob/output/snake.svg)
