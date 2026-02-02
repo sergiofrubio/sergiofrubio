@@ -1,5 +1,5 @@
 # 🌟 About Me
-Computer Engineering student with a solid foundation in backend development and previous professional experience as a PHP developer. My goal is always to create functional, user-friendly applications, and I truly enjoy every step of the process. I’m committed to continuous learning and growth in this ever-evolving field. Personally, my passions are sport and videogames.
+Computer Engineering student with a solid foundation in backend development and previous professional experience as a PHP developer. My goal is always to create functional, user-friendly applications, and I truly enjoy every step of the process. I’m committed to continuous learning and growth in this ever-evolving field. Personally, my passions are reading and videogames.
 
 ## 💻 Tech Stack
 ### Languages & Frameworks:
