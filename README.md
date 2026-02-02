@@ -1,10 +1,6 @@
 # 🌟 About Me
 Computer Engineering student with a solid foundation in backend development and previous professional experience as a PHP developer. My goal is always to create functional, user-friendly applications, and I truly enjoy every step of the process. I’m committed to continuous learning and growth in this ever-evolving field. Personally, my passions are sport and videogames.
 
-## 🌐 Socials
-- [LinkedIn](https://linkedin.com/in/fisicarubio)
-- [My Web](Work in progres...) ⚒️
-
 ## 💻 Tech Stack
 ### Languages & Frameworks:
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
