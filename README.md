@@ -1,5 +1,5 @@
 # 🌟 Hey! Nice to see you.
-I'm Sergio, a Computer Engineering student from Spain with a solid foundation in backend development and previous professional experience as a PHP developer. My goal is always to create functional, user-friendly applications, and I truly enjoy every step of the process. I’m committed to continuous learning and growth in this ever-evolving field. Personally, my passions are reading and videogames.
+I'm Sergio, a Software Developer from Spain with a solid foundation in backend development and previous professional experience as a PHP developer. My goal is always to create functional, user-friendly applications, and I truly enjoy every step of the process. I’m committed to continuous learning and growth in this ever-evolving field. Personally, my passions are reading and videogames.
 
 ## 💻 Tools I code with:
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?&style=for-the-badge&logo=symfony&logoColor=white)
